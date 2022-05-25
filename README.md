@@ -1,2 +1,2 @@
 # odin-recipes
-Fill this description upon completion of project!
+This website is my first fledged out website, detailing a small list of recipes on different pages. 
